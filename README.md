@@ -1,8 +1,7 @@
-### Hi there! 👋 Welcome to my Data Analytics Universe! 🚀
+I’m Mary, a User Success Engineer with hands-on experience in data analysis and project management, always focused on delivering impactful results.
 
-![My Interests!](https://raw.githubusercontent.com/maryKanata/maryKanata/main/photo/hello%20world!.png)
-- 👀 I’m interested in Artificial Intelligence 💻, Productivity 💪 & Science 👩‍🚀
-- 🌱 I’m currently discovering the Data Analytics Ecosystem, specializing in Data Analysis 📊
-- 🎯 My personal❓WHY is to become an effective data-storyteller to make data insights digestible to non-technical audiences🎉
+I breath for blending business intelligence and data science, working on projects that create growth opportunities and bring measurable value.
+
+Whether it's streamlining processes, driving innovation, or telling stories with data, I bring a problem-solving mindset and a vision for creating meaningful impact!
 
 
