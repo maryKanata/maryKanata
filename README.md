@@ -1,7 +1,9 @@
-I’m Mary, a User Success Engineer with hands-on experience in data science and project management, always focused on delivering impactful results.
+Hi, I’m Mary. I work at the intersection of machine learning and platform engineering, helping build the infrastructure, tooling, and services that make enterprise AI useful and reliable.
 
-I breath for blending business intelligence and data science, working on projects that create growth opportunities and bring measurable value.
+My experience spans the data and AI value chain, from analytics and project coordination to platform enablement, observability, governance, and ML engineering. I enjoy turning complex technical systems into practical tools that help teams work more effectively.
 
-When it comes to streamlining processes, driving innovation, or telling stories with data, I bring a problem-solving mindset and a vision for creating meaningful impact!
+Areas I work in: ML platforms, MLOps, platform observability, AI integrations, data analytics, and developer experience.
+
+I’m happy to connect with people working on data science platforms, MLOps, and the engineering behind AI products.
 
 
